@@ -9,7 +9,6 @@
 
 <div>
     <h1 style="color: red;">My GitHub Profile</h1>
-    <p style="color: red;">Ya krutoy specialist!</p>
 </div>
 
 </body>
